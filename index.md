@@ -33,6 +33,7 @@ This reading list is a collection of links to resources covering the topic of ar
 * [Should We Trust a Black Box to Safeguard Human Rights? A Comparative Analysis of AI Governance](https://escholarship.org/uc/item/1k39n4t9) by "Scott J. Shackelford, et al *UCLA Journal of International Law and Foreign Affairs* (Spring 2022)
 * [Universal Guidelines for Artificial Intelligence](https://archive.epic.org/international/AIGuidleinesDRAFT20180910.pdf) by *The Public Voice* (Oct-18)
 * [The uselessness of AI ethics](https://link.springer.com/article/10.1007/s43681-022-00209-w) by Luke Munn *AI and Ethics* (Aug-22)
+* [AI under great uncertainty: implications and decision strategies for public policy](https://link.springer.com/article/10.1007/s00146-021-01263-4) by Maria Nordström *AI & Society* (Sep-21)
 * [Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence) by *UNESCO* (May-23)
 * [Recommendation of the Council on OECD Legal Instruments Artificial Intelligence](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449) by *OECD* (Jul-23)
 * [AI Executive  Order: Human Readable Edition](https://heystacks.com/doc/1381/ai-eo-human-readable-edition-view-only) by President Joseph Biden *The White House* (Oct-23)
