@@ -98,6 +98,14 @@ Additional readings on AI that will be relevant and of interest for library and 
 
 * [IRCAI Global Top 100 2022 Report](https://ircai.org/project/ircai-global-top-100-2022-report/) by *International Research Centre in Artificial Intelligence* (May-23)
 
+***
+
+Last updated January 25, 2024
+
+California State Library | California Research Bureau
+
+Please send questions or comments to [patrick.rogers@library.ca.gov](mailto:patrick.rogers@library.ca.gov)
+
 
 
 
