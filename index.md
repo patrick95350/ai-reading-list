@@ -14,6 +14,7 @@ This reading list is a collection of links to resources covering the topic of ar
   * [Trends](trends)
 
 <a name="general" />
+
 ## General Background
 
 * [Artificial Intelligence: A Policy-Oriented Introduction](https://www.wilsoncenter.org/publication/artificial-intelligence-policy-oriented-introduction) by Anne Bowser, et al *Wilson Center* (Nov-17)
@@ -23,6 +24,7 @@ This reading list is a collection of links to resources covering the topic of ar
 * [Natural Language Processing in the Era of Large Language Models](https://www.frontiersin.org/articles/10.3389/frai.2023.1350306/full) by *Frontiers in Artificial Intelligence* (Forthcoming)
 
 <a name="governance" />
+
 ## AI Governance
 
 * [Representation of Libraries in Artificial Intelligence Regulations and Implications for Ethics and Practice](https://www.tandfonline.com/doi/full/10.1080/24750158.2022.2101911) by Fiona Bradley *Journal of the Australian Library and Information Association* (Aug-22)
@@ -37,6 +39,7 @@ This reading list is a collection of links to resources covering the topic of ar
 * [The New York City Artificial Intelligence Action Plan](https://www.nyc.gov/assets/oti/downloads/pdf/reports/artificial-intelligence-action-plan.pdf) by *City of New York* (Oct-23)
 
 <a name="libraries" />
+
 ## AI in Libraries
 
 * [Use of artificial intelligence in the library services: prospects and challenges](https://www.emerald.com/insight/content/doi/10.1108/LHTN-11-2022-0125/full/html) by Abid Hussain *Library Hi Tech News* (Mar-23)
@@ -65,25 +68,32 @@ This reading list is a collection of links to resources covering the topic of ar
 * [Generative AI for library and information professionals](https://www.ifla.org/g/ai/generative-ai/) by  *International Federation of Library Associations and Institutions* (Jan-24)
 
 <a name="related" />
+
 ## Related Topics
 
+Additional readings on AI that will be relevant and of interest for library and information science professionals
+
 <a name="human-centered" />
+
 ### Human Centered AI
 
 * [What is critical for human-centered AI at work? – Toward an interdisciplinary theory](https://pubmed.ncbi.nlm.nih.gov/38028661/) by Athanasios Mazarakis, et al *Frontiers in Artificial Intelligence* (Oct-23)
 * [Cultivation of human centered artificial intelligence: culturally adaptive thinking in education (CATE) for AI](https://www.frontiersin.org/articles/10.3389/frai.2023.1198180/full) by Yana Samuel, et al *Frontiers in Artificial Intelligence* (Dec-23)
 
 <a name="education" />
+
 ### Education
 
 * [Integrating AI tools in teacher professional learning: a conceptual model and illustrative case](https://www.frontiersin.org/articles/10.3389/frai.2023.1255089/full) by Kairit Tammets and Tobias Ley *Frontiers in Artificial Intelligence* (Dec-23)
 
 <a name="work" />
+
 ### Work and Employment
 
 * [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on KnowledgeWorker Productivity and Quality](https://www.hbs.edu/ris/Publication%20Files/24-013_d9b45b68-9e74-42d6-a1c6-c72fb70c7282.pdf) by Fabrizio Dell'Acqua *Harvard Business Review* (Sep-23)
 
 <a name="trends" />
+
 ### Trends
 
 * [IRCAI Global Top 100 2022 Report](https://ircai.org/project/ircai-global-top-100-2022-report/) by *International Research Centre in Artificial Intelligence* (May-23)
