@@ -93,6 +93,7 @@ Additional readings on AI that will be relevant and of interest for library and 
 ### Work and Employment
 
 * [Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on KnowledgeWorker Productivity and Quality](https://www.hbs.edu/ris/Publication%20Files/24-013_d9b45b68-9e74-42d6-a1c6-c72fb70c7282.pdf) by Fabrizio Dell'Acqua *Harvard Business Review* (Sep-23)
+* [Economics of Artificial Intelligence Conference, Fall 2023](https://www.nber.org/conferences/economics-artificial-intelligence-conference-fall-2023) by *National Bureau of Economic Research* (Sep-23)
 
 <a name="trends" />
 
