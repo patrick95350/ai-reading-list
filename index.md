@@ -22,6 +22,7 @@ This reading list is a collection of links to resources covering the topic of ar
 * [Artificial intelligence in the work context](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24730) by Mohammad Hossein Jarrahi *Journal of the Association for Information Science and Technology* (Dec-22)
 * [ChatGPT Is Not All You Need. A State of the Art Review of Large Generative AI Models](https://arxiv.org/abs/2301.04655) by Roberto Gozalo-Brizuela, et al *arXiv* (Jan-23)
 * [Natural Language Processing in the Era of Large Language Models](https://www.frontiersin.org/articles/10.3389/frai.2023.1350306/full) by *Frontiers in Artificial Intelligence* (Forthcoming)
+* [Prompt Design and Engineering: Introduction and Advanced Methods](https://arxiv.org/abs/2401.14423) by Xavier Amatrian *arXiv* (Jan-24)
 
 <a name="governance" />
 
@@ -103,7 +104,7 @@ Additional readings on AI that will be relevant and of interest for library and 
 
 ***
 
-Last updated January 29, 2024  
+Last updated February 2, 2024  
 [California State Library](https://library.ca.gov)  
 Please send questions or comments to [patrick.rogers@library.ca.gov](mailto:patrick.rogers@library.ca.gov)
 
