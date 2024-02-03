@@ -88,6 +88,7 @@ Additional readings on AI that will be relevant and of interest for library and 
 ### Education
 
 * [Integrating AI tools in teacher professional learning: a conceptual model and illustrative case](https://www.frontiersin.org/articles/10.3389/frai.2023.1255089/full) by Kairit Tammets and Tobias Ley *Frontiers in Artificial Intelligence* (Dec-23)
+* [Learning With AI, Learning About AI](https://www.cde.ca.gov/pd/ca/cs/aiincalifornia.asp) by *California Department of Education* (Sep-23)
 
 <a name="work" />
 
