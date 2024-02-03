@@ -69,6 +69,7 @@ This reading list is a collection of links to resources covering the topic of ar
 * [7 ways artificial intelligence is changing libraries](https://iris.ai/academics/7-ways-ai-changes-libraries/) by  *iris.ai* (Jan-21)
 * [Developing a library strategic response to Artificial Intelligence](https://www.ifla.org/g/ai/developing-a-library-strategic-response-to-artificial-intelligence/) by  *International Federation of Library Associations and Institutions* (Nov-23)
 * [Generative AI for library and information professionals](https://www.ifla.org/g/ai/generative-ai/) by  *International Federation of Library Associations and Institutions* (Jan-24)
+* [Envisioning Information Access Systems: What Makes for Good Tools and a Healthy Web?](http://faculty.washington.edu/ebender/papers/Envisioning_IAS_preprint.pdf) by Chirag Shah and Emily Bender *(Preprint)* (Sep-23)
 
 <a name="related" />
 
