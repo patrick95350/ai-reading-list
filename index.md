@@ -10,6 +10,7 @@ This reading list is a collection of links to resources covering the topic of ar
 * [Related Topics](related)
   * [Human-Centered AI](human-centered)
   * [Education](education)
+  * [News and Journalism](journalism)
   * [Work and Employment](work)
   * [Trends](trends)
 
@@ -90,6 +91,12 @@ Additional readings on AI that will be relevant and of interest for library and 
 
 * [Integrating AI tools in teacher professional learning: a conceptual model and illustrative case](https://www.frontiersin.org/articles/10.3389/frai.2023.1255089/full) by Kairit Tammets and Tobias Ley *Frontiers in Artificial Intelligence* (Dec-23)
 * [Learning With AI, Learning About AI](https://www.cde.ca.gov/pd/ca/cs/aiincalifornia.asp) by *California Department of Education* (Sep-23)
+
+<a name="journalism" />
+
+### News and Journalism
+
+[Artificial Intelligence in the News: How AI Retools, Rationalizes, and Reshapes Journalism and the Public Arena](https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php) by Felix M. Simon *Columbia Journalism Review* (Feb-24)
 
 <a name="work" />
 
