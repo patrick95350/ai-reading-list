@@ -13,6 +13,7 @@ This reading list is a collection of links to resources covering the topic of ar
   * [News and Journalism](journalism)
   * [Work and Employment](work)
   * [Trends](trends)
+ * [RSS Feeds](rss)
 
 <a name="general" />
 
@@ -72,6 +73,9 @@ This reading list is a collection of links to resources covering the topic of ar
 * [Generative AI for library and information professionals](https://www.ifla.org/g/ai/generative-ai/) by  *International Federation of Library Associations and Institutions* (Jan-24)
 * [Envisioning Information Access Systems: What Makes for Good Tools and a Healthy Web?](http://faculty.washington.edu/ebender/papers/Envisioning_IAS_preprint.pdf) by Chirag Shah and Emily Bender *(Preprint)* (Sep-23)
 
+### Literature Searches
+* [Artificial Intelligence for Literature Reviews: Opportunities and Challenges](https://arxiv.org/abs/2402.08565) by Francisco Bolanos, et al *arXiv* (Feb-24)
+
 <a name="related" />
 
 ## Related Topics
@@ -111,9 +115,15 @@ Additional readings on AI that will be relevant and of interest for library and 
 
 * [IRCAI Global Top 100 2022 Report](https://ircai.org/project/ircai-global-top-100-2022-report/) by *International Research Centre in Artificial Intelligence* (May-23)
 
+<a name="rss" />
+
+## RSS Feeds
+
+* [AI in Libraries News Articles](https://www.newsdesk.lexisnexis.com/feed/af66f9f0ba29d238.rss?ext=sc&img=1&n=30) by *California State Library* (For articles behind paywall, CA legislative staff can request access by contacting the [California Research Bureau](mailto:crb@library.ca.gov).)
+
 ***
 
-Last updated February 2, 2024  
+Last updated February 14, 2024  
 [California State Library](https://library.ca.gov)  
 Please send questions or comments to [patrick.rogers@library.ca.gov](mailto:patrick.rogers@library.ca.gov)
 
