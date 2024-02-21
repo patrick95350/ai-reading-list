@@ -130,7 +130,7 @@ Additional readings on AI that will be relevant and of interest for library and 
 
 ***
 
-Last updated February 14, 2024  
+Last updated February 21, 2024  
 [California State Library](https://library.ca.gov)  
 Please send questions or comments to [patrick.rogers@library.ca.gov](mailto:patrick.rogers@library.ca.gov)
 
