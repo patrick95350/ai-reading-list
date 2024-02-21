@@ -8,4 +8,4 @@ This is the github repository for [CSL's AI Reading List](https://patrick95350.g
 
 ## Bookmarks
 
-[https://rdmla.github.io/](https://rdmla.github.io/)
+* [https://rdmla.github.io/](https://rdmla.github.io/)
