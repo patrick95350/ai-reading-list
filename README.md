@@ -5,3 +5,7 @@ This is the github repository for [CSL's AI Reading List](https://patrick95350.g
 ## ToDos
 
 * Investigate adding Seattle [https://techtalk.seattle.gov/2023/05/31/city-of-seattle-adopts-generative-ai-policy/](https://techtalk.seattle.gov/2023/05/31/city-of-seattle-adopts-generative-ai-policy/)
+
+## Bookmarks
+
+[https://rdmla.github.io/](https://rdmla.github.io/)
