@@ -11,3 +11,4 @@ View the public version of the reading list at [https://patrick95350.github.io/a
 ## Bookmarks
 
 * [https://rdmla.github.io/](https://rdmla.github.io/)
+* [https://www.infodocket.com/](https://www.infodocket.com/)
