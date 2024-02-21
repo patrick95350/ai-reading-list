@@ -6,6 +6,7 @@ This reading list is a collection of links to resources covering the topic of ar
 
 * [General Background](general)
 * [AI Governance](governance)
+  * [California](gov_california) 
 * [AI in Libraries](libraries)
 * [Related Topics](related)
   * [Human-Centered AI](human-centered)
@@ -40,8 +41,14 @@ This reading list is a collection of links to resources covering the topic of ar
 * [Recommendation on the Ethics of Artificial Intelligence](https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence) by *UNESCO* (May-23)
 * [Recommendation of the Council on OECD Legal Instruments Artificial Intelligence](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449) by *OECD* (Jul-23)
 * [AI Executive  Order: Human Readable Edition](https://heystacks.com/doc/1381/ai-eo-human-readable-edition-view-only) by President Joseph Biden *The White House* (Oct-23)
-* [Executive Order N-12-23](https://www.gov.ca.gov/wp-content/uploads/2023/09/AI-EO-No.12-_-GGN-Signed.pdf) by Governor Gavin Newsom *Office of the Governor of the State of California* (Sep-23)
 * [The New York City Artificial Intelligence Action Plan](https://www.nyc.gov/assets/oti/downloads/pdf/reports/artificial-intelligence-action-plan.pdf) by *City of New York* (Oct-23)
+
+<a name="gov_california" />
+
+### California
+
+* [Executive Order N-12-23](https://www.gov.ca.gov/wp-content/uploads/2023/09/AI-EO-No.12-_-GGN-Signed.pdf) by Governor Gavin Newsom *Office of the Governor of the State of California* (Sep-23)
+* [CA Artifical Intelligence Community](https://cdt.ca.gov/technology-innovation/artificial-intelligence-community/) by *CA Department of Technnology* (2024)
 
 <a name="libraries" />
 
