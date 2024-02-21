@@ -4,17 +4,17 @@ This reading list is a collection of links to resources covering the topic of ar
 
 ## Table of Contents
 
-* [General Background](general)
-* [AI Governance](governance)
-  * [California](gov_california) 
-* [AI in Libraries](libraries)
-* [Related Topics](related)
-  * [Human-Centered AI](human-centered)
-  * [Education](education)
-  * [News and Journalism](journalism)
-  * [Work and Employment](work)
-  * [Trends](trends)
- * [RSS Feeds](rss)
+* [General Background](#general)
+* [AI Governance](#governance)
+  * [California](#gov_california) 
+* [AI in Libraries](#libraries)
+* [Related Topics](#related)
+  * [Human-Centered AI](#human-centered)
+  * [Education](#education)
+  * [News and Journalism](#journalism)
+  * [Work and Employment](#work)
+  * [Trends](#trends)
+ * [RSS Feeds](#rss)
 
 <a name="general" />
 
