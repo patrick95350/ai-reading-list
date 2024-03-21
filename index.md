@@ -93,7 +93,7 @@ Additional readings on AI that will be relevant and of interest for library and 
 
 ### Human Centered AI
 
-* [What is critical for human-centered AI at work? – Toward an interdisciplinary theory](https://pubmed.ncbi.nlm.nih.gov/38028661/) by Athanasios Mazarakis, et al *Frontiers in Artificial Intelligence* (Oct-23)
+* [What is critical for human-centered AI at work? – Toward an interdisciplinary theory](https://www.frontiersin.org/articles/10.3389/frai.2023.1257057/full) by Athanasios Mazarakis, et al *Frontiers in Artificial Intelligence* (Oct-23)
 * [Cultivation of human centered artificial intelligence: culturally adaptive thinking in education (CATE) for AI](https://www.frontiersin.org/articles/10.3389/frai.2023.1198180/full) by Yana Samuel, et al *Frontiers in Artificial Intelligence* (Dec-23)
 
 <a name="education" />
